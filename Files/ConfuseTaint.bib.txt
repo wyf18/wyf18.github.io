@@ -1,6 +1,6 @@
 @inproceedings{wu2025confusetaint,
   author    = {Yufei Wu, and Alexandre Bartel},
-  title     = {ConfuseTaint: Exploiting Type Confusion Vulnerabilities to Bypass Dynamic Taint Analysis},
+  title     = {ConfuseTaint: Exploiting Vulnerabilities to Bypass Dynamic Taint Analysis},
   booktitle = {Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)},
   year      = {2025},
   publisher = {IEEE Computer Society \& ACM},
